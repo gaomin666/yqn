@@ -1,0 +1,189 @@
+.app{
+  overflow:hidden;
+  background:#f4f4f4;
+}
+.list-group{
+  width:25%;
+  float:left;
+  height:auto;
+  text-align:center;
+  background:#fff
+}
+.list-group li{
+  width:100%;
+  height:.38rem;
+  line-height:.38rem;
+  border-bottom:1px solid #e5e5e5;
+  font-size:.14rem;
+}
+.list-group li a{
+  width:100%;
+  display:inline-block;
+  color:#666;
+}
+.router-link-active {
+  color:#f66;
+  border-left:.02rem solid #f66;
+}
+/***默认选中颜色**/
+
+
+.tab-right{
+  width:75%;
+  float:left;
+}
+.tab-right .baby-dl{
+  width:.85rem;
+  height:1.03rem;
+  float:left;
+  background:#fff;
+  text-align:center;
+  margin:.08rem;
+}
+.baby-dl dt{
+  width:.75rem;
+  height:.75rem;
+}
+.baby-dl dt img{
+  width:100%;
+  height:100%;
+}
+.tab-right .baby-dl dd{
+  font-size:.14rem;
+  margin-top:.1rem;
+}
+.list-group{
+  width:25%;
+  float:left;
+  height:auto;
+  text-align:center;
+}
+.list-group li{
+  width:100%;
+  height:.38rem;
+  line-height:.38rem;
+  border-bottom:1px solid #e5e5e5;
+}
+.list-group li a{
+  width:100%;
+  display:inline-block;
+  color:#666;
+  font-size:.14rem;
+}
+.router-link-active{
+  color:#f66;
+  border-left:2px solid #f66;
+}
+.baby{
+  width:auto;
+  float:left;
+  background:#f4f4f4;
+  margin-left:.06rem;
+  padding-bottom:.5rem;
+}
+.baby *dl{
+  width:.95rem;
+  height:1.3rem;
+  float:left;
+  text-align:center;
+
+}
+.baby dl dd{
+  font-size:.12rem;
+  margin-top:.1rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.baby dl dt img{
+  width:.75rem;
+  height:.75rem;
+}
+/*!*圈子**!*/
+.line{
+  height:.06rem;
+  background:#f7f7f7;
+}
+.md-show{
+}
+h3{
+  line-height:.34rem;
+  font-size:.15rem;
+}
+.actile{
+  height:.92rem;
+}
+.actile-all{
+  padding:0 .12rem;
+  border-bottom:1px solid #f7f7f7;
+}
+.actile p{
+  width:2.6rem;
+  height:.4rem;
+  float:left;
+  font-size:.13rem;
+  color:#666;
+  line-height:.2rem;
+  word-break: break-all;
+  text-overflow: ellipsis;
+  display: -webkit-box; /*!** 对象作为伸缩盒子模型显示 **!*/
+  -webkit-box-orient: vertical; /*!** 设置或检索伸缩盒对象的子元素的排列方式 **!*/
+  -webkit-line-clamp: 2;/* !** 显示的行数 **!*/
+  overflow: hidden;
+}
+.actile img{
+  width:1.2rem;
+  height:.8rem;
+  float:right;
+}
+.week{
+  font-size:.12rem;
+  height:.4rem;
+  line-height:.4rem;
+  margin-top:-.27rem;
+  color:#999;
+}
+
+/*头部**/
+.top{
+  width:100%;
+  height:.44rem;
+  background:#fff;
+  text-align:center;
+  line-height:.4rem ;
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:99;
+}
+.search{
+  width:70%;
+  height:70%;
+  border-radius:.1rem;
+  text-indent:.4rem;
+  position:relative;
+  border:1px solid #ccc;
+}
+.parent{
+  width:100%;
+  height:100%;
+  overflow:hidden;
+  position:relative;
+  border-bottom:none;
+  box-shadow:0 .01rem .04rem #d2d2d2;
+}
+
+.ic{
+  position:absolute;
+  z-index:99;
+  left:.7rem;
+}
+.back-home{
+  display:inline-block;
+  float:left;
+
+}
+.back-home i{
+  font-size:.18rem;
+  color:#333;
+}

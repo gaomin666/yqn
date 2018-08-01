@@ -1,0 +1,67 @@
+{
+  "ret": true,
+  "data": {
+    "Handles": [
+      {
+        "id":101,
+        "HandleImgUrl": "https://img.naifenpifa168.com/upfile/admin/1/image/20180422/ebd6c2efbbf68c8ba316ed0567ab6f18.jpg",
+        "title": " 100%北欧进口奶源，蒙牛美萌益900克听1段 1箱*6听   17年12月 全码",
+        "price": 654.00
+      },
+      {
+        "id":102,
+        "HandleImgUrl": "https://img.naifenpifa168.com/upfile/user/10397/image/20180327/4040bb7a447f4a3ecf799aa32ce1801f.jpg",
+        "title": " 100%北欧进口奶源，蒙牛美萌益900克听1段 1箱*6听   17年12月 全码",
+        "price": 854.00
+      },
+      {
+        "id":103,
+        "HandleImgUrl": "https://img.naifenpifa168.com/upfile/user/10397/image/20180327/4040bb7a447f4a3ecf799aa32ce1801f.jpg",
+        "title": " 100%北欧进口奶源，蒙牛美萌益900克听1段 1箱*6听   17年12月 全码",
+        "price": 542.00
+      },{
+        "id":104,
+        "HandleImgUrl": "https://img.naifenpifa168.com/upfile/user/10397/image/20180327/2017c41cbf43d65252ab736443782f26.jpg",
+        "title": " 100%北欧进口奶源，蒙牛美萌益900克听1段 1箱*6听   17年12月 全码",
+        "price": 254.00
+      },
+      {
+        "id":105,
+        "HandleImgUrl": "https://img.naifenpifa168.com/upfile/user/2/image/20171023/d0d4ae6986337ac0b72be8a6db96194c.jpg",
+        "title": " 100%北欧进口奶源，蒙牛美萌益900克听1段 1箱*6听   17年12月 全码",
+        "price": 154.00
+      },
+      {
+        "id":106,
+        "HandleImgUrl": "https://img.naifenpifa168.com/upfile/admin/1/image/20180422/ebd6c2efbbf68c8ba316ed0567ab6f18.jpg",
+        "title": " 100%北欧进口奶源，蒙牛美萌益900克听1段 1箱*6听   17年12月 全码",
+        "price": 554.00
+      },{
+        "id":107,
+        "HandleImgUrl": "https://img.naifenpifa168.com/upfile/admin/image/20180701/78aec3bd06711ea4638ea27fbd3ab7f5.jpg",
+        "title": " 100%北欧进口奶源，蒙牛美萌益900克听1段 1箱*6听   17年12月 全码",
+        "price": 54.00
+      },
+      {
+        "id":108,
+        "HandleImgUrl": "https://img.naifenpifa168.com/upfile/user/10397/image/20170714/ad83bd79efcde765e8b985c49ad54304.jpg",
+        "title": " 100%北欧进口奶源，蒙牛美萌益900克听1段 1箱*6听   17年12月 全码",
+        "price": 54.00
+      }
+    ],
+    "activeswipers":[
+      {
+        "id":"109",
+        "activeswiperImg":"https://img.naifenpifa168.com/upfile/user/10397/image/20180327/4040bb7a447f4a3ecf799aa32ce1801f.jpg"
+      },
+      {
+        "id":"110",
+        "activeswiperImg":"https://img.naifenpifa168.com/upfile/user/10397/image/20170714/ad83bd79efcde765e8b985c49ad54304.jpg"
+      },
+      {
+        "id":"111",
+        "activeswiperImg":"https://img.naifenpifa168.com/upfile/admin/image/20180701/78aec3bd06711ea4638ea27fbd3ab7f5.jpg"
+      }
+    ]
+  }
+}
